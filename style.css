@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.interior_craft_paragrap{
+	display: inline-block;
+}
+.icon{
+	width: 50px;
+	margin-bottom: 10px;
+}
+li{
+	display: inline-block;
+	margin-left: 30px;
+	padding-left: 150px;
+}
+.search_icon{
+	width: 30px;
+	margin-left: 1250px;
+}
+.bag_icon{
+	width: 30px;
+}
+.icone_container{
+	margin-bottom: -20px;
+}
