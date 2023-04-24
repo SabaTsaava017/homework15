@@ -3,6 +3,9 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+.container{
+	margin-left: 100px;
+}
 .interior_craft_paragrap{
 	display: inline-block;
 }
@@ -24,4 +27,45 @@ li{
 }
 .icone_container{
 	margin-bottom: -20px;
+}
+.build{
+	width: 1300px;
+
+}
+.box{
+	position: relative;
+}
+.title{
+	position: absolute;
+	color:#805050;
+	bottom: 380px;
+	font-size: 50px;
+	padding-left: 200px;
+}
+.info{
+	color:#805050;
+	font-size: 30px;
+	position: absolute;
+	margin-left: 60px;
+}
+button{
+	width: 140px;
+	height: 60px;
+	margin-left: 280px;
+	margin-top: 50px;
+	font-size: 17px;
+}
+h2{
+	font-size: 60px;
+	padding-top: 50px;
+}
+.paragrap_style{
+	width: 500px;
+	font-size: 25px;
+	display: inline-block;
+}
+.design_foto{
+	width: 450px;
+	margin-left: 170px;
+	border-radius: 20px;
 }
