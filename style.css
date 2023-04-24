@@ -8,6 +8,7 @@
 }
 .interior_craft_paragrap{
 	display: inline-block;
+	font-family: 'Dancing Script', cursive;
 }
 .icon{
 	width: 50px;
@@ -17,6 +18,7 @@ li{
 	display: inline-block;
 	margin-left: 30px;
 	padding-left: 150px;
+	font-family: 'Fjalla One', sans-serif;
 }
 .search_icon{
 	width: 30px;
@@ -39,8 +41,11 @@ li{
 	position: absolute;
 	color:#805050;
 	bottom: 380px;
-	font-size: 50px;
+	font-size: 60px;
 	padding-left: 200px;
+}
+h1{
+	font-family: 'Dancing Script', cursive;
 }
 .info{
 	color:#805050;
@@ -58,14 +63,42 @@ button{
 h2{
 	font-size: 60px;
 	padding-top: 50px;
+	font-family: 'Dancing Script', cursive;
 }
 .paragrap_style{
 	width: 500px;
 	font-size: 25px;
 	display: inline-block;
+	font-family: 'Fjalla One', sans-serif;
 }
 .design_foto{
 	width: 450px;
 	margin-left: 170px;
 	border-radius: 20px;
+}
+.wallpapper_div{
+	display: inline-block;
+}
+.wallpapper{
+	height: 240px;
+	width: 240px;
+	border-radius: 20px;
+}
+.paragrap_style1{
+	width: 200px;
+	font-size: 20px;
+	padding-top: 30px;
+	color: #0E0E0E;
+	font-family: 'Fjalla One', sans-serif;
+}
+.wallpapper_div{
+	display: inline-block;
+	margin-top: 60px;
+	margin: 30px;
+}
+h3{
+	font-size: 30px;
+	padding-top: 40px;
+	color: #966565;
+	font-family: 'Dancing Script', cursive;
 }
